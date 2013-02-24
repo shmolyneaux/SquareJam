@@ -1,7 +1,7 @@
 ABOUT
 =====
 
-This is a game created by Stephen Molyneaux between December 22 and 28, 2012. 
+This is an Android game created by Stephen Molyneaux between December 22 and 28, 2012. 
 It is a clone of the iOS game Bloop by @rustym. It was made using libgdx and 
 the Universal Tween Engine.
 
