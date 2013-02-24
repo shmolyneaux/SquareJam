@@ -3,7 +3,10 @@ ABOUT
 
 This is an Android game created by Stephen Molyneaux between December 22 and 28, 2012. 
 It is a clone of the iOS game Bloop by @rustym. It was made using libgdx and 
-the Universal Tween Engine.
+the Universal Tween Engine. Due to the short development cycle the source code is not
+that representative of what I make. This is also the first game I've finished in Java.
+
+Download `square-jam-android.apk` and install on an Android device to start playing.
 
 
 HOW TO PLAY
